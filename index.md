@@ -1,5 +1,5 @@
 ---
-title: hi
+title: inicio
 layout: home
 ---
 
