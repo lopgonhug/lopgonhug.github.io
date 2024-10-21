@@ -1,11 +1,11 @@
 title: La que se avecina
-description: hola
+description: 
 theme: just-the-docs
 
 url: https://lopgonhug.github.io
 
  nav_external_links:
   - title: intro
-    url: https://youtu.be/iDXF8nPwlKI?si=JQ5p93V_O-8IwWIE
+    url: https://youtu.be/iDXF8nPwlKI?si=ppRjrRlQmTyWE-qI
     hide_icon: false
     opens_in_new_tab: true
