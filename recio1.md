@@ -1,5 +1,5 @@
 ---
-title: antonio recio
+title: payasos justicieros
 layout: home
-parent: payasos justicieros
+parent: antonio recio
 ---
