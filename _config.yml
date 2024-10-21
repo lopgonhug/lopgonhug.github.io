@@ -3,9 +3,8 @@ theme: just-the-docs
 
 url: https://lopgonhug.github.io
 
-
  nav_external_links:
   - title: intro
-    url: https://www.youtube.com/watch?v=sM4kjx_6nkE
+    url: https://www.youtube.com/watch?v=iDXF8nPwlKI
     hide_icon: false
     opens_in_new_tab: true
