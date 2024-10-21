@@ -3,11 +3,9 @@ theme: just-the-docs
 
 url: https://lopgonhug.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
  nav_external_links:
   - title: intro
     url: https://www.youtube.com/watch?v=sM4kjx_6nkE
-    hide_icon: false 
+    hide_icon: false
     opens_in_new_tab: true
