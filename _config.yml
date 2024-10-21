@@ -5,3 +5,7 @@ url: https://lopgonhug.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  nav_external_links:
+ url: https://es.wikipedia.org/wiki/La_que_se_avecina
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to false to open this link in a new tab - defaults to true
